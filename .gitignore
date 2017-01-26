@@ -7,6 +7,6 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 
-.classpath
-.project
 .settings/
+/bin/
+.classpath
